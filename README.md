@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](francksuelbarbosa@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francksuel-machado-3b9b6b236)
 
-![Francksuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=francksuel&show_icons=true&theme=tokyonight)
+![Francksuel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=francksuel&show_icons=true&theme=tokyonight)
 
 ## Technologies i use on a daily basis:
 
@@ -21,6 +21,6 @@
 <img align="center" alt="expressJS" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 </div><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francksuel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=francksuel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning TypeScript.
