@@ -27,4 +27,4 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=francksuel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning JAVA.
