@@ -1,6 +1,5 @@
 ### Hi, i'm Francksuel Machado 👋
-<i>Civil Engineer from Brazil</i><br/>
-<i>Fullstack student at Driven education</i><br/>
+<i>Web developer at Destiny Community</i><br/>
 <br/>
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](francksuelbarbosa@gmail.com)
@@ -27,4 +26,4 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=francksuel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning PHP.
